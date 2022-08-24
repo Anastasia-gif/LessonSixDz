@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonSix/Task042_numberConversion/bin/Debug/net6.0/Task042_numberConversion
+/home/nast/lessonС#/DzLessonSix/Task042_numberConversion/bin/Debug/net6.0/Task042_numberConversion.deps.json
+/home/nast/lessonС#/DzLessonSix/Task042_numberConversion/bin/Debug/net6.0/Task042_numberConversion.runtimeconfig.json
+/home/nast/lessonС#/DzLessonSix/Task042_numberConversion/bin/Debug/net6.0/Task042_numberConversion.dll
+/home/nast/lessonС#/DzLessonSix/Task042_numberConversion/bin/Debug/net6.0/Task042_numberConversion.pdb
+/home/nast/lessonС#/DzLessonSix/Task042_numberConversion/obj/Debug/net6.0/Task042_numberConversion.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonSix/Task042_numberConversion/obj/Debug/net6.0/Task042_numberConversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonSix/Task042_numberConversion/obj/Debug/net6.0/Task042_numberConversion.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task042_numberConversion/obj/Debug/net6.0/Task042_numberConversion.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonSix/Task042_numberConversion/obj/Debug/net6.0/Task042_numberConversion.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task042_numberConversion/obj/Debug/net6.0/Task042_numberConversion.dll
+/home/nast/lessonС#/DzLessonSix/Task042_numberConversion/obj/Debug/net6.0/refint/Task042_numberConversion.dll
+/home/nast/lessonС#/DzLessonSix/Task042_numberConversion/obj/Debug/net6.0/Task042_numberConversion.pdb
+/home/nast/lessonС#/DzLessonSix/Task042_numberConversion/obj/Debug/net6.0/Task042_numberConversion.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonSix/Task042_numberConversion/obj/Debug/net6.0/ref/Task042_numberConversion.dll

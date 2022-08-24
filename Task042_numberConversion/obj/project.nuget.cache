@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZEMSw2+ci2IxL57AupOT92aTUYPA1HJR5Rwu5QXkh1XM5cD5kLMytYzrLV+AAFGW0JLXs4GINx7FyVdKS8ykgg==",
+  "success": true,
+  "projectFilePath": "/home/nast/lessonС#/DzLessonSix/Task042_numberConversion/Task042_numberConversion.csproj",
+  "expectedPackageFiles": [
+    "/home/nast/.nuget/packages/microsoft.netcore.app.ref/6.0.7/microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.7/microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.7/microsoft.netcore.app.host.linux-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
