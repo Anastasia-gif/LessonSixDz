@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonSix/Task041_countNumbers/bin/Debug/net6.0/Task041_countNumbers
+/home/nast/lessonС#/DzLessonSix/Task041_countNumbers/bin/Debug/net6.0/Task041_countNumbers.deps.json
+/home/nast/lessonС#/DzLessonSix/Task041_countNumbers/bin/Debug/net6.0/Task041_countNumbers.runtimeconfig.json
+/home/nast/lessonС#/DzLessonSix/Task041_countNumbers/bin/Debug/net6.0/Task041_countNumbers.dll
+/home/nast/lessonС#/DzLessonSix/Task041_countNumbers/bin/Debug/net6.0/Task041_countNumbers.pdb
+/home/nast/lessonС#/DzLessonSix/Task041_countNumbers/obj/Debug/net6.0/Task041_countNumbers.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonSix/Task041_countNumbers/obj/Debug/net6.0/Task041_countNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonSix/Task041_countNumbers/obj/Debug/net6.0/Task041_countNumbers.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task041_countNumbers/obj/Debug/net6.0/Task041_countNumbers.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonSix/Task041_countNumbers/obj/Debug/net6.0/Task041_countNumbers.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task041_countNumbers/obj/Debug/net6.0/Task041_countNumbers.dll
+/home/nast/lessonС#/DzLessonSix/Task041_countNumbers/obj/Debug/net6.0/refint/Task041_countNumbers.dll
+/home/nast/lessonС#/DzLessonSix/Task041_countNumbers/obj/Debug/net6.0/Task041_countNumbers.pdb
+/home/nast/lessonС#/DzLessonSix/Task041_countNumbers/obj/Debug/net6.0/Task041_countNumbers.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonSix/Task041_countNumbers/obj/Debug/net6.0/ref/Task041_countNumbers.dll
