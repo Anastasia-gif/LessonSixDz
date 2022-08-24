@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonSix/Task043_findingIntersectionPoint/obj/Debug/net6.0/Task043_findingIntersectionPoint.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonSix/Task043_findingIntersectionPoint/obj/Debug/net6.0/Task043_findingIntersectionPoint.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonSix/Task043_findingIntersectionPoint/obj/Debug/net6.0/Task043_findingIntersectionPoint.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task043_findingIntersectionPoint/obj/Debug/net6.0/Task043_findingIntersectionPoint.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonSix/Task043_findingIntersectionPoint/obj/Debug/net6.0/Task043_findingIntersectionPoint.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task043_findingIntersectionPoint/bin/Debug/net6.0/Task043_findingIntersectionPoint
+/home/nast/lessonС#/DzLessonSix/Task043_findingIntersectionPoint/bin/Debug/net6.0/Task043_findingIntersectionPoint.deps.json
+/home/nast/lessonС#/DzLessonSix/Task043_findingIntersectionPoint/bin/Debug/net6.0/Task043_findingIntersectionPoint.runtimeconfig.json
+/home/nast/lessonС#/DzLessonSix/Task043_findingIntersectionPoint/bin/Debug/net6.0/Task043_findingIntersectionPoint.dll
+/home/nast/lessonС#/DzLessonSix/Task043_findingIntersectionPoint/bin/Debug/net6.0/Task043_findingIntersectionPoint.pdb
+/home/nast/lessonС#/DzLessonSix/Task043_findingIntersectionPoint/obj/Debug/net6.0/Task043_findingIntersectionPoint.dll
+/home/nast/lessonС#/DzLessonSix/Task043_findingIntersectionPoint/obj/Debug/net6.0/refint/Task043_findingIntersectionPoint.dll
+/home/nast/lessonС#/DzLessonSix/Task043_findingIntersectionPoint/obj/Debug/net6.0/Task043_findingIntersectionPoint.pdb
+/home/nast/lessonС#/DzLessonSix/Task043_findingIntersectionPoint/obj/Debug/net6.0/Task043_findingIntersectionPoint.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonSix/Task043_findingIntersectionPoint/obj/Debug/net6.0/ref/Task043_findingIntersectionPoint.dll
