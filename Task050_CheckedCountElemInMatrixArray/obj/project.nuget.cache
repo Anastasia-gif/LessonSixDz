@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Un7wactCxuUwba4+rfVxHm/lJFPhnNr+5tHeUJMdAeLUytU+wkL2IYvNaZjRYpwqXBOhek4VVY8WVFhQl5K+Eg==",
+  "success": true,
+  "projectFilePath": "/home/nast/lessonС#/DzLessonSix/Task050_CheckedCountElemInMatrixArray/Task050_CheckedCountElemInMatrixArray.csproj",
+  "expectedPackageFiles": [
+    "/home/nast/.nuget/packages/microsoft.netcore.app.ref/6.0.7/microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.7/microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.7/microsoft.netcore.app.host.linux-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

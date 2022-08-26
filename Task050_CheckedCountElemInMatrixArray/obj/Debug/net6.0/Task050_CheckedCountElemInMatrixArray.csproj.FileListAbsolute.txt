@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonSix/Task050_CheckedCountElemInMatrixArray/bin/Debug/net6.0/Task050_CheckedCountElemInMatrixArray
+/home/nast/lessonС#/DzLessonSix/Task050_CheckedCountElemInMatrixArray/bin/Debug/net6.0/Task050_CheckedCountElemInMatrixArray.deps.json
+/home/nast/lessonС#/DzLessonSix/Task050_CheckedCountElemInMatrixArray/bin/Debug/net6.0/Task050_CheckedCountElemInMatrixArray.runtimeconfig.json
+/home/nast/lessonС#/DzLessonSix/Task050_CheckedCountElemInMatrixArray/bin/Debug/net6.0/Task050_CheckedCountElemInMatrixArray.dll
+/home/nast/lessonС#/DzLessonSix/Task050_CheckedCountElemInMatrixArray/bin/Debug/net6.0/Task050_CheckedCountElemInMatrixArray.pdb
+/home/nast/lessonС#/DzLessonSix/Task050_CheckedCountElemInMatrixArray/obj/Debug/net6.0/Task050_CheckedCountElemInMatrixArray.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonSix/Task050_CheckedCountElemInMatrixArray/obj/Debug/net6.0/Task050_CheckedCountElemInMatrixArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonSix/Task050_CheckedCountElemInMatrixArray/obj/Debug/net6.0/Task050_CheckedCountElemInMatrixArray.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task050_CheckedCountElemInMatrixArray/obj/Debug/net6.0/Task050_CheckedCountElemInMatrixArray.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonSix/Task050_CheckedCountElemInMatrixArray/obj/Debug/net6.0/Task050_CheckedCountElemInMatrixArray.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task050_CheckedCountElemInMatrixArray/obj/Debug/net6.0/Task050_CheckedCountElemInMatrixArray.dll
+/home/nast/lessonС#/DzLessonSix/Task050_CheckedCountElemInMatrixArray/obj/Debug/net6.0/refint/Task050_CheckedCountElemInMatrixArray.dll
+/home/nast/lessonС#/DzLessonSix/Task050_CheckedCountElemInMatrixArray/obj/Debug/net6.0/Task050_CheckedCountElemInMatrixArray.pdb
+/home/nast/lessonС#/DzLessonSix/Task050_CheckedCountElemInMatrixArray/obj/Debug/net6.0/Task050_CheckedCountElemInMatrixArray.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonSix/Task050_CheckedCountElemInMatrixArray/obj/Debug/net6.0/ref/Task050_CheckedCountElemInMatrixArray.dll
