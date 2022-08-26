@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nU4MXOZG1IoyCZhgqWP+0YW57NQ14DIrv9ZsRaV0ROCdLPCa7oJmJF7fhPxEsYPjBIj0gYE/dwRYJDTnBoYSaA==",
+  "success": true,
+  "projectFilePath": "/home/nast/lessonС#/DzLessonSix/Task052_FindingAvgElemInMatrix/Task052_FindingAvgElemInMatrix.csproj",
+  "expectedPackageFiles": [
+    "/home/nast/.nuget/packages/microsoft.netcore.app.ref/6.0.7/microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.7/microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.7/microsoft.netcore.app.host.linux-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

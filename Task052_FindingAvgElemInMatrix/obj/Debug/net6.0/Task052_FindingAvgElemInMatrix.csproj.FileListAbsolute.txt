@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonSix/Task052_FindingAvgElemInMatrix/bin/Debug/net6.0/Task052_FindingAvgElemInMatrix
+/home/nast/lessonС#/DzLessonSix/Task052_FindingAvgElemInMatrix/bin/Debug/net6.0/Task052_FindingAvgElemInMatrix.deps.json
+/home/nast/lessonС#/DzLessonSix/Task052_FindingAvgElemInMatrix/bin/Debug/net6.0/Task052_FindingAvgElemInMatrix.runtimeconfig.json
+/home/nast/lessonС#/DzLessonSix/Task052_FindingAvgElemInMatrix/bin/Debug/net6.0/Task052_FindingAvgElemInMatrix.dll
+/home/nast/lessonС#/DzLessonSix/Task052_FindingAvgElemInMatrix/bin/Debug/net6.0/Task052_FindingAvgElemInMatrix.pdb
+/home/nast/lessonС#/DzLessonSix/Task052_FindingAvgElemInMatrix/obj/Debug/net6.0/Task052_FindingAvgElemInMatrix.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonSix/Task052_FindingAvgElemInMatrix/obj/Debug/net6.0/Task052_FindingAvgElemInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonSix/Task052_FindingAvgElemInMatrix/obj/Debug/net6.0/Task052_FindingAvgElemInMatrix.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task052_FindingAvgElemInMatrix/obj/Debug/net6.0/Task052_FindingAvgElemInMatrix.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonSix/Task052_FindingAvgElemInMatrix/obj/Debug/net6.0/Task052_FindingAvgElemInMatrix.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task052_FindingAvgElemInMatrix/obj/Debug/net6.0/Task052_FindingAvgElemInMatrix.dll
+/home/nast/lessonС#/DzLessonSix/Task052_FindingAvgElemInMatrix/obj/Debug/net6.0/refint/Task052_FindingAvgElemInMatrix.dll
+/home/nast/lessonС#/DzLessonSix/Task052_FindingAvgElemInMatrix/obj/Debug/net6.0/Task052_FindingAvgElemInMatrix.pdb
+/home/nast/lessonС#/DzLessonSix/Task052_FindingAvgElemInMatrix/obj/Debug/net6.0/Task052_FindingAvgElemInMatrix.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonSix/Task052_FindingAvgElemInMatrix/obj/Debug/net6.0/ref/Task052_FindingAvgElemInMatrix.dll
