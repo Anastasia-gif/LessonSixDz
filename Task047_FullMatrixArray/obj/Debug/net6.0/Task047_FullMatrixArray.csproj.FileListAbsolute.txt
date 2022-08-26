@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonSix/Task047_FullMatrixArray/obj/Debug/net6.0/Task047_FullMatrixArray.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonSix/Task047_FullMatrixArray/obj/Debug/net6.0/Task047_FullMatrixArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonSix/Task047_FullMatrixArray/obj/Debug/net6.0/Task047_FullMatrixArray.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task047_FullMatrixArray/obj/Debug/net6.0/Task047_FullMatrixArray.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonSix/Task047_FullMatrixArray/obj/Debug/net6.0/Task047_FullMatrixArray.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task047_FullMatrixArray/bin/Debug/net6.0/Task047_FullMatrixArray
+/home/nast/lessonС#/DzLessonSix/Task047_FullMatrixArray/bin/Debug/net6.0/Task047_FullMatrixArray.deps.json
+/home/nast/lessonС#/DzLessonSix/Task047_FullMatrixArray/bin/Debug/net6.0/Task047_FullMatrixArray.runtimeconfig.json
+/home/nast/lessonС#/DzLessonSix/Task047_FullMatrixArray/bin/Debug/net6.0/Task047_FullMatrixArray.dll
+/home/nast/lessonС#/DzLessonSix/Task047_FullMatrixArray/bin/Debug/net6.0/Task047_FullMatrixArray.pdb
+/home/nast/lessonС#/DzLessonSix/Task047_FullMatrixArray/obj/Debug/net6.0/Task047_FullMatrixArray.dll
+/home/nast/lessonС#/DzLessonSix/Task047_FullMatrixArray/obj/Debug/net6.0/refint/Task047_FullMatrixArray.dll
+/home/nast/lessonС#/DzLessonSix/Task047_FullMatrixArray/obj/Debug/net6.0/Task047_FullMatrixArray.pdb
+/home/nast/lessonС#/DzLessonSix/Task047_FullMatrixArray/obj/Debug/net6.0/Task047_FullMatrixArray.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonSix/Task047_FullMatrixArray/obj/Debug/net6.0/ref/Task047_FullMatrixArray.dll

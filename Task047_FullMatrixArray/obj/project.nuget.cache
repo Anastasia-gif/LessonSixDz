@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "14U+g7mzVW9fVSoxDt+lCxO/k/rgRO9bMdLNmRjRCt52bnAkN84mF+vwJHL9Q1DFkuGD+ZE9/7wNfC6ffgm0ww==",
+  "success": true,
+  "projectFilePath": "/home/nast/lessonС#/DzLessonSix/Task047_FullMatrixArray/Task047_FullMatrixArray.csproj",
+  "expectedPackageFiles": [
+    "/home/nast/.nuget/packages/microsoft.netcore.app.ref/6.0.7/microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.7/microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.7/microsoft.netcore.app.host.linux-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
