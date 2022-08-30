@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonSix/Task056_findingRowSmallestAmountElem/bin/Debug/net6.0/Task056_findingRowSmallestAmountElem
+/home/nast/lessonС#/DzLessonSix/Task056_findingRowSmallestAmountElem/bin/Debug/net6.0/Task056_findingRowSmallestAmountElem.deps.json
+/home/nast/lessonС#/DzLessonSix/Task056_findingRowSmallestAmountElem/bin/Debug/net6.0/Task056_findingRowSmallestAmountElem.runtimeconfig.json
+/home/nast/lessonС#/DzLessonSix/Task056_findingRowSmallestAmountElem/bin/Debug/net6.0/Task056_findingRowSmallestAmountElem.dll
+/home/nast/lessonС#/DzLessonSix/Task056_findingRowSmallestAmountElem/bin/Debug/net6.0/Task056_findingRowSmallestAmountElem.pdb
+/home/nast/lessonС#/DzLessonSix/Task056_findingRowSmallestAmountElem/obj/Debug/net6.0/Task056_findingRowSmallestAmountElem.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonSix/Task056_findingRowSmallestAmountElem/obj/Debug/net6.0/Task056_findingRowSmallestAmountElem.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonSix/Task056_findingRowSmallestAmountElem/obj/Debug/net6.0/Task056_findingRowSmallestAmountElem.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task056_findingRowSmallestAmountElem/obj/Debug/net6.0/Task056_findingRowSmallestAmountElem.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonSix/Task056_findingRowSmallestAmountElem/obj/Debug/net6.0/Task056_findingRowSmallestAmountElem.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task056_findingRowSmallestAmountElem/obj/Debug/net6.0/Task056_findingRowSmallestAmountElem.dll
+/home/nast/lessonС#/DzLessonSix/Task056_findingRowSmallestAmountElem/obj/Debug/net6.0/refint/Task056_findingRowSmallestAmountElem.dll
+/home/nast/lessonС#/DzLessonSix/Task056_findingRowSmallestAmountElem/obj/Debug/net6.0/Task056_findingRowSmallestAmountElem.pdb
+/home/nast/lessonС#/DzLessonSix/Task056_findingRowSmallestAmountElem/obj/Debug/net6.0/Task056_findingRowSmallestAmountElem.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonSix/Task056_findingRowSmallestAmountElem/obj/Debug/net6.0/ref/Task056_findingRowSmallestAmountElem.dll
