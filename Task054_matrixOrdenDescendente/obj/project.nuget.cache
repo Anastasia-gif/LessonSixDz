@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RncvgcPMAPFg18DceNXtf2jufg/OPZrzjNTvU9OnRVjs4eV5pEfZEIybuSaTpTzKnhtGQWyLSFjXkdIRSHy5ug==",
+  "success": true,
+  "projectFilePath": "/home/nast/lessonС#/DzLessonSix/Task054_matrixOrdenDescendente/Task054_matrixOrdenDescendente.csproj",
+  "expectedPackageFiles": [
+    "/home/nast/.nuget/packages/microsoft.netcore.app.ref/6.0.7/microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.7/microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.7/microsoft.netcore.app.host.linux-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

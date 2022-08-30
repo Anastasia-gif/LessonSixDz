@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonSix/Task054_matrixOrdenDescendente/obj/Debug/net6.0/Task054_matrixOrdenDescendente.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonSix/Task054_matrixOrdenDescendente/obj/Debug/net6.0/Task054_matrixOrdenDescendente.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonSix/Task054_matrixOrdenDescendente/obj/Debug/net6.0/Task054_matrixOrdenDescendente.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task054_matrixOrdenDescendente/obj/Debug/net6.0/Task054_matrixOrdenDescendente.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonSix/Task054_matrixOrdenDescendente/obj/Debug/net6.0/Task054_matrixOrdenDescendente.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task054_matrixOrdenDescendente/bin/Debug/net6.0/Task054_matrixOrdenDescendente
+/home/nast/lessonС#/DzLessonSix/Task054_matrixOrdenDescendente/bin/Debug/net6.0/Task054_matrixOrdenDescendente.deps.json
+/home/nast/lessonС#/DzLessonSix/Task054_matrixOrdenDescendente/bin/Debug/net6.0/Task054_matrixOrdenDescendente.runtimeconfig.json
+/home/nast/lessonС#/DzLessonSix/Task054_matrixOrdenDescendente/bin/Debug/net6.0/Task054_matrixOrdenDescendente.dll
+/home/nast/lessonС#/DzLessonSix/Task054_matrixOrdenDescendente/bin/Debug/net6.0/Task054_matrixOrdenDescendente.pdb
+/home/nast/lessonС#/DzLessonSix/Task054_matrixOrdenDescendente/obj/Debug/net6.0/Task054_matrixOrdenDescendente.dll
+/home/nast/lessonС#/DzLessonSix/Task054_matrixOrdenDescendente/obj/Debug/net6.0/refint/Task054_matrixOrdenDescendente.dll
+/home/nast/lessonС#/DzLessonSix/Task054_matrixOrdenDescendente/obj/Debug/net6.0/Task054_matrixOrdenDescendente.pdb
+/home/nast/lessonС#/DzLessonSix/Task054_matrixOrdenDescendente/obj/Debug/net6.0/Task054_matrixOrdenDescendente.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonSix/Task054_matrixOrdenDescendente/obj/Debug/net6.0/ref/Task054_matrixOrdenDescendente.dll
