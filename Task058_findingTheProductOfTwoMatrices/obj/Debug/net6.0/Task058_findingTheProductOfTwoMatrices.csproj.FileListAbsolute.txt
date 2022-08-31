@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonSix/Task058_findingTheProductOfTwoMatrices/bin/Debug/net6.0/Task058_findingTheProductOfTwoMatrices
+/home/nast/lessonС#/DzLessonSix/Task058_findingTheProductOfTwoMatrices/bin/Debug/net6.0/Task058_findingTheProductOfTwoMatrices.deps.json
+/home/nast/lessonС#/DzLessonSix/Task058_findingTheProductOfTwoMatrices/bin/Debug/net6.0/Task058_findingTheProductOfTwoMatrices.runtimeconfig.json
+/home/nast/lessonС#/DzLessonSix/Task058_findingTheProductOfTwoMatrices/bin/Debug/net6.0/Task058_findingTheProductOfTwoMatrices.dll
+/home/nast/lessonС#/DzLessonSix/Task058_findingTheProductOfTwoMatrices/bin/Debug/net6.0/Task058_findingTheProductOfTwoMatrices.pdb
+/home/nast/lessonС#/DzLessonSix/Task058_findingTheProductOfTwoMatrices/obj/Debug/net6.0/Task058_findingTheProductOfTwoMatrices.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonSix/Task058_findingTheProductOfTwoMatrices/obj/Debug/net6.0/Task058_findingTheProductOfTwoMatrices.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonSix/Task058_findingTheProductOfTwoMatrices/obj/Debug/net6.0/Task058_findingTheProductOfTwoMatrices.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task058_findingTheProductOfTwoMatrices/obj/Debug/net6.0/Task058_findingTheProductOfTwoMatrices.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonSix/Task058_findingTheProductOfTwoMatrices/obj/Debug/net6.0/Task058_findingTheProductOfTwoMatrices.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task058_findingTheProductOfTwoMatrices/obj/Debug/net6.0/Task058_findingTheProductOfTwoMatrices.dll
+/home/nast/lessonС#/DzLessonSix/Task058_findingTheProductOfTwoMatrices/obj/Debug/net6.0/refint/Task058_findingTheProductOfTwoMatrices.dll
+/home/nast/lessonС#/DzLessonSix/Task058_findingTheProductOfTwoMatrices/obj/Debug/net6.0/Task058_findingTheProductOfTwoMatrices.pdb
+/home/nast/lessonС#/DzLessonSix/Task058_findingTheProductOfTwoMatrices/obj/Debug/net6.0/Task058_findingTheProductOfTwoMatrices.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonSix/Task058_findingTheProductOfTwoMatrices/obj/Debug/net6.0/ref/Task058_findingTheProductOfTwoMatrices.dll

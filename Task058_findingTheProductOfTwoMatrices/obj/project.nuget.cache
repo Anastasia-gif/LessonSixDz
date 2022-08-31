@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "groUkGLphw2PBPkygSRPC0pCH82rZ5vKO6oPg+g7BT9Fivq8375H5HtclQas16zB8T3jdRyz9/8uwlF5loal+w==",
+  "success": true,
+  "projectFilePath": "/home/nast/lessonС#/DzLessonSix/Task058_findingTheProductOfTwoMatrices/Task058_findingTheProductOfTwoMatrices.csproj",
+  "expectedPackageFiles": [
+    "/home/nast/.nuget/packages/microsoft.netcore.app.ref/6.0.7/microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.7/microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.7/microsoft.netcore.app.host.linux-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
