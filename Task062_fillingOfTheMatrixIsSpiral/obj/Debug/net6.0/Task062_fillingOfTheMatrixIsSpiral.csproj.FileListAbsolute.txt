@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonSix/Task062_fillingOfTheMatrixIsSpiral/obj/Debug/net6.0/Task062_fillingOfTheMatrixIsSpiral.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonSix/Task062_fillingOfTheMatrixIsSpiral/obj/Debug/net6.0/Task062_fillingOfTheMatrixIsSpiral.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonSix/Task062_fillingOfTheMatrixIsSpiral/obj/Debug/net6.0/Task062_fillingOfTheMatrixIsSpiral.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task062_fillingOfTheMatrixIsSpiral/obj/Debug/net6.0/Task062_fillingOfTheMatrixIsSpiral.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonSix/Task062_fillingOfTheMatrixIsSpiral/obj/Debug/net6.0/Task062_fillingOfTheMatrixIsSpiral.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task062_fillingOfTheMatrixIsSpiral/bin/Debug/net6.0/Task062_fillingOfTheMatrixIsSpiral
+/home/nast/lessonС#/DzLessonSix/Task062_fillingOfTheMatrixIsSpiral/bin/Debug/net6.0/Task062_fillingOfTheMatrixIsSpiral.deps.json
+/home/nast/lessonС#/DzLessonSix/Task062_fillingOfTheMatrixIsSpiral/bin/Debug/net6.0/Task062_fillingOfTheMatrixIsSpiral.runtimeconfig.json
+/home/nast/lessonС#/DzLessonSix/Task062_fillingOfTheMatrixIsSpiral/bin/Debug/net6.0/Task062_fillingOfTheMatrixIsSpiral.dll
+/home/nast/lessonС#/DzLessonSix/Task062_fillingOfTheMatrixIsSpiral/bin/Debug/net6.0/Task062_fillingOfTheMatrixIsSpiral.pdb
+/home/nast/lessonС#/DzLessonSix/Task062_fillingOfTheMatrixIsSpiral/obj/Debug/net6.0/Task062_fillingOfTheMatrixIsSpiral.dll
+/home/nast/lessonС#/DzLessonSix/Task062_fillingOfTheMatrixIsSpiral/obj/Debug/net6.0/refint/Task062_fillingOfTheMatrixIsSpiral.dll
+/home/nast/lessonС#/DzLessonSix/Task062_fillingOfTheMatrixIsSpiral/obj/Debug/net6.0/Task062_fillingOfTheMatrixIsSpiral.pdb
+/home/nast/lessonС#/DzLessonSix/Task062_fillingOfTheMatrixIsSpiral/obj/Debug/net6.0/Task062_fillingOfTheMatrixIsSpiral.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonSix/Task062_fillingOfTheMatrixIsSpiral/obj/Debug/net6.0/ref/Task062_fillingOfTheMatrixIsSpiral.dll
