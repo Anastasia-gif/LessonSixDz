@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonSix/Task060_formationOfAThree-dimensionalArray/bin/Debug/net6.0/Task060_formationOfAThree-dimensionalArray
+/home/nast/lessonС#/DzLessonSix/Task060_formationOfAThree-dimensionalArray/bin/Debug/net6.0/Task060_formationOfAThree-dimensionalArray.deps.json
+/home/nast/lessonС#/DzLessonSix/Task060_formationOfAThree-dimensionalArray/bin/Debug/net6.0/Task060_formationOfAThree-dimensionalArray.runtimeconfig.json
+/home/nast/lessonС#/DzLessonSix/Task060_formationOfAThree-dimensionalArray/bin/Debug/net6.0/Task060_formationOfAThree-dimensionalArray.dll
+/home/nast/lessonС#/DzLessonSix/Task060_formationOfAThree-dimensionalArray/bin/Debug/net6.0/Task060_formationOfAThree-dimensionalArray.pdb
+/home/nast/lessonС#/DzLessonSix/Task060_formationOfAThree-dimensionalArray/obj/Debug/net6.0/Task060_formationOfAThree-dimensionalArray.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonSix/Task060_formationOfAThree-dimensionalArray/obj/Debug/net6.0/Task060_formationOfAThree-dimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonSix/Task060_formationOfAThree-dimensionalArray/obj/Debug/net6.0/Task060_formationOfAThree-dimensionalArray.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task060_formationOfAThree-dimensionalArray/obj/Debug/net6.0/Task060_formationOfAThree-dimensionalArray.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonSix/Task060_formationOfAThree-dimensionalArray/obj/Debug/net6.0/Task060_formationOfAThree-dimensionalArray.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task060_formationOfAThree-dimensionalArray/obj/Debug/net6.0/Task060_formationOfAThree-dimensionalArray.dll
+/home/nast/lessonС#/DzLessonSix/Task060_formationOfAThree-dimensionalArray/obj/Debug/net6.0/refint/Task060_formationOfAThree-dimensionalArray.dll
+/home/nast/lessonС#/DzLessonSix/Task060_formationOfAThree-dimensionalArray/obj/Debug/net6.0/Task060_formationOfAThree-dimensionalArray.pdb
+/home/nast/lessonС#/DzLessonSix/Task060_formationOfAThree-dimensionalArray/obj/Debug/net6.0/Task060_formationOfAThree-dimensionalArray.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonSix/Task060_formationOfAThree-dimensionalArray/obj/Debug/net6.0/ref/Task060_formationOfAThree-dimensionalArray.dll
