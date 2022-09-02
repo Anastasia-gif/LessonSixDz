@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/Task064_outputOfNaturalNumbers.csproj": {}
+  },
+  "projects": {
+    "/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/Task064_outputOfNaturalNumbers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/Task064_outputOfNaturalNumbers.csproj",
+        "projectName": "Task064_outputOfNaturalNumbers",
+        "projectPath": "/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/Task064_outputOfNaturalNumbers.csproj",
+        "packagesPath": "/home/nast/.nuget/packages/",
+        "outputPath": "/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nast/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/nast/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

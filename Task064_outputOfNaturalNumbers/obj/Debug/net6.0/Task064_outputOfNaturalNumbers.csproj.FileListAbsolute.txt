@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/bin/Debug/net6.0/Task064_outputOfNaturalNumbers
+/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/bin/Debug/net6.0/Task064_outputOfNaturalNumbers.deps.json
+/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/bin/Debug/net6.0/Task064_outputOfNaturalNumbers.runtimeconfig.json
+/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/bin/Debug/net6.0/Task064_outputOfNaturalNumbers.dll
+/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/bin/Debug/net6.0/Task064_outputOfNaturalNumbers.pdb
+/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/obj/Debug/net6.0/Task064_outputOfNaturalNumbers.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/obj/Debug/net6.0/Task064_outputOfNaturalNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/obj/Debug/net6.0/Task064_outputOfNaturalNumbers.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/obj/Debug/net6.0/Task064_outputOfNaturalNumbers.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/obj/Debug/net6.0/Task064_outputOfNaturalNumbers.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/obj/Debug/net6.0/Task064_outputOfNaturalNumbers.dll
+/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/obj/Debug/net6.0/refint/Task064_outputOfNaturalNumbers.dll
+/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/obj/Debug/net6.0/Task064_outputOfNaturalNumbers.pdb
+/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/obj/Debug/net6.0/Task064_outputOfNaturalNumbers.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonSix/Task064_outputOfNaturalNumbers/obj/Debug/net6.0/ref/Task064_outputOfNaturalNumbers.dll
