@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonSix/Task066_calcSumNaturalNumbers/bin/Debug/net6.0/Task066_calcSumNaturalNumbers
+/home/nast/lessonС#/DzLessonSix/Task066_calcSumNaturalNumbers/bin/Debug/net6.0/Task066_calcSumNaturalNumbers.deps.json
+/home/nast/lessonС#/DzLessonSix/Task066_calcSumNaturalNumbers/bin/Debug/net6.0/Task066_calcSumNaturalNumbers.runtimeconfig.json
+/home/nast/lessonС#/DzLessonSix/Task066_calcSumNaturalNumbers/bin/Debug/net6.0/Task066_calcSumNaturalNumbers.dll
+/home/nast/lessonС#/DzLessonSix/Task066_calcSumNaturalNumbers/bin/Debug/net6.0/Task066_calcSumNaturalNumbers.pdb
+/home/nast/lessonС#/DzLessonSix/Task066_calcSumNaturalNumbers/obj/Debug/net6.0/Task066_calcSumNaturalNumbers.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonSix/Task066_calcSumNaturalNumbers/obj/Debug/net6.0/Task066_calcSumNaturalNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonSix/Task066_calcSumNaturalNumbers/obj/Debug/net6.0/Task066_calcSumNaturalNumbers.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task066_calcSumNaturalNumbers/obj/Debug/net6.0/Task066_calcSumNaturalNumbers.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonSix/Task066_calcSumNaturalNumbers/obj/Debug/net6.0/Task066_calcSumNaturalNumbers.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task066_calcSumNaturalNumbers/obj/Debug/net6.0/Task066_calcSumNaturalNumbers.dll
+/home/nast/lessonС#/DzLessonSix/Task066_calcSumNaturalNumbers/obj/Debug/net6.0/refint/Task066_calcSumNaturalNumbers.dll
+/home/nast/lessonС#/DzLessonSix/Task066_calcSumNaturalNumbers/obj/Debug/net6.0/Task066_calcSumNaturalNumbers.pdb
+/home/nast/lessonС#/DzLessonSix/Task066_calcSumNaturalNumbers/obj/Debug/net6.0/Task066_calcSumNaturalNumbers.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonSix/Task066_calcSumNaturalNumbers/obj/Debug/net6.0/ref/Task066_calcSumNaturalNumbers.dll
