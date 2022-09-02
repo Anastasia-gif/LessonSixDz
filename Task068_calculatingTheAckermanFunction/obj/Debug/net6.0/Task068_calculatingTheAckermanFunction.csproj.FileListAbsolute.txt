@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonSix/Task068_calculatingTheAckermanFunction/obj/Debug/net6.0/Task068_calculatingTheAckermanFunction.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonSix/Task068_calculatingTheAckermanFunction/obj/Debug/net6.0/Task068_calculatingTheAckermanFunction.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonSix/Task068_calculatingTheAckermanFunction/obj/Debug/net6.0/Task068_calculatingTheAckermanFunction.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task068_calculatingTheAckermanFunction/obj/Debug/net6.0/Task068_calculatingTheAckermanFunction.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonSix/Task068_calculatingTheAckermanFunction/obj/Debug/net6.0/Task068_calculatingTheAckermanFunction.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonSix/Task068_calculatingTheAckermanFunction/bin/Debug/net6.0/Task068_calculatingTheAckermanFunction
+/home/nast/lessonС#/DzLessonSix/Task068_calculatingTheAckermanFunction/bin/Debug/net6.0/Task068_calculatingTheAckermanFunction.deps.json
+/home/nast/lessonС#/DzLessonSix/Task068_calculatingTheAckermanFunction/bin/Debug/net6.0/Task068_calculatingTheAckermanFunction.runtimeconfig.json
+/home/nast/lessonС#/DzLessonSix/Task068_calculatingTheAckermanFunction/bin/Debug/net6.0/Task068_calculatingTheAckermanFunction.dll
+/home/nast/lessonС#/DzLessonSix/Task068_calculatingTheAckermanFunction/bin/Debug/net6.0/Task068_calculatingTheAckermanFunction.pdb
+/home/nast/lessonС#/DzLessonSix/Task068_calculatingTheAckermanFunction/obj/Debug/net6.0/Task068_calculatingTheAckermanFunction.dll
+/home/nast/lessonС#/DzLessonSix/Task068_calculatingTheAckermanFunction/obj/Debug/net6.0/refint/Task068_calculatingTheAckermanFunction.dll
+/home/nast/lessonС#/DzLessonSix/Task068_calculatingTheAckermanFunction/obj/Debug/net6.0/Task068_calculatingTheAckermanFunction.pdb
+/home/nast/lessonС#/DzLessonSix/Task068_calculatingTheAckermanFunction/obj/Debug/net6.0/Task068_calculatingTheAckermanFunction.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonSix/Task068_calculatingTheAckermanFunction/obj/Debug/net6.0/ref/Task068_calculatingTheAckermanFunction.dll
